@@ -63,6 +63,7 @@ header>p{
 
 /*MAIN*/
 main{
+    
     margin: auto;
     max-width: 1500px;
     min-height: 200px;
@@ -173,9 +174,11 @@ footer>ol>li>a:hover{
 
 /*rodape*/
 #rodape{
+    
     background-color: var(--cor3);
     text-align: center;
-    padding: 2px;
+    
+    
 }
 
 main>#rodape>p>a{
@@ -183,6 +186,11 @@ main>#rodape>p>a{
     color: black;
 }
 
+main>#ultimo{
+    margin: 0px;
+    padding: 0px;
+
+}
     
 /*rodape*/
 
